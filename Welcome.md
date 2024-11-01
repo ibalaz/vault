@@ -1,4 +1,4 @@
  Baki's Vault
 
 Links:
- [[Tasks]]
+ [[Tasks (work)]]

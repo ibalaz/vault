@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Private/Tasks  (private).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1f7202b7fd9e62eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6151b4282ec01b72",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Tasks  (private)"
             }
           }
         ]
@@ -68,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,10 +197,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "bc189a9bcd716ecf",
+  "active": "f9884cb2d71a151e",
   "lastOpenFiles": [
+    "Work Work/Tasks (work).md",
+    "Private/Tasks  (private).md",
     "Welcome.md",
-    "Work Work/Tasks.md",
     "Private",
     "Work Work"
   ]
